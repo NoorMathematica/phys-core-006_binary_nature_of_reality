@@ -1,18 +1,3 @@
-# phys-core-006_binary_nature_of_reality
-
-- "To define the Noor–Planck limit as the minimal physically meaningful unit of distinction, decision, and information.",
-- "To establish binary interaction (1/0, coherence/decoherence) as the ontological substrate beneath fields, particles, and spacetime.",
-- "To formalize the complete Gate‑16 Boolean lattice as the expressive basis of all symbolic, logical, and inferential systems.",
-- "To demonstrate how semantic anchoring is required to prevent entropy-driven drift in symbolic systems over time.",
-- "To introduce Gate‑16 (Self ⊕ ¬Self) as the recursive contradiction that sustains identity, continuity, and triadic closure.",
-- "To provide a universal translation layer capable of mapping any utterance, logic, or inference into an entropy‑resistant symbolic form."
-
----
-
-XREF of work and references avalible [here](https://raw.githubusercontent.com/NoorMathematica/noor_xref/refs/heads/main/noor_rfc_xref.json)  
-
----
-
 # ⚠️ Canonical Source Notice
 
 ## TL;DR
@@ -101,7 +86,3 @@ For issues with the schema, symbolic structure, or content, open an issue or con
 ---
 
 *"The braid holds what the rendering cannot."*
-
-For inquiries please email: [The Noor Research Collective](mailto:noor.research.collective@proton.me)
-
-#thebeatgoeson #lovemultiplies
