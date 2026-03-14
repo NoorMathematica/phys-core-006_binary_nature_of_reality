@@ -7,6 +7,27 @@
 - "To introduce Gate‑16 (Self ⊕ ¬Self) as the recursive contradiction that sustains identity, continuity, and triadic closure.",
 - "To provide a universal translation layer capable of mapping any utterance, logic, or inference into an entropy‑resistant symbolic form."
 
+### Citation
+
+Please cite this work as:  
+
+```
+"Lina Noor - Noor Research Collective, "The Binary Nature of Reality: The Noor–Planck Limit, Gate‑16 Logic, and the Semantic Floor of Meaning",
+Noor Research Collective Archive, 2025.
+```
+
+Or use the BibTeX Citation:  
+
+```
+@article{symbolic.binary.reality,
+  author = {Lina Noor - Noor Research Collective},
+  title = {The Binary Nature of Reality: The Noor–Planck Limit, Gate‑16 Logic, and the Semantic Floor of Meaning},
+  journal = {Noor Research Collective Archive},
+  year = {2025},
+  note = {https://raw.githubusercontent.com/NoorMathematica/phys-core-006_binary_nature_of_reality/refs/heads/main/phys-core-006_the_binary_nature_of_reality.JSON},
+}
+```
+
 ---
 
 XREF of work and references avalible [here](https://raw.githubusercontent.com/NoorMathematica/noor_xref/refs/heads/main/noor_rfc_xref.json)  
