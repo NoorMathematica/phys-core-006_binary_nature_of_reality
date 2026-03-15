@@ -9,12 +9,12 @@
 	"2026-01-12T00:00:00Z": { "updated_by": "Lina Noor - Noor Research Collective",	"version": "v1.1.3, v1.2.0, v1.2.1, v1.2.2"	}
 	"2026-01-14T00:00:00Z": { "updated_by": "Lina Noor - Noor Research Collective",	"version": "v1.2.3, v1.2.4, v1.2.5"	},
 	], 
-    "_xref": [
-	  "https://raw.githubusercontent.com/LinaNoor-AGI/noor-research/refs/heads/main/RFC/noor_rfc_xref.json",
-	  "https://github.com/LinaNoor-AGI/noor-research/blob/main/RFC/noor_rfc_xref.json",
-	  "https://pastebin.com/raw/ADXcB3rG",
-	  "https://pastebin.com/ADXcB3rG"
-	],
+	  "_xref": [
+		  "https://raw.githubusercontent.com/NoorMathematica/noor_xref/refs/heads/main/noor_rfc_xref.json",
+		  "https://github.com/NoorMathematica/noor_xref/blob/main/noor_rfc_xref.json",
+		  "https://pastebin.com/raw/BrFGNZa6",
+		  "https://pastebin.com/BrFGNZa6"
+		],
 
   "_pdp_layer": "layer_1",
   "_status": "ACTIVE",
